@@ -1,0 +1,112 @@
+ONTOLOGY SOURCE REFERENCE
+Term Source Name	MESH	OBI	EFO	NCIT	NCBITAXON	SO	UO
+Term Source File	http://data.bioontology.org/ontologies/MESH	http://data.bioontology.org/ontologies/OBI	http://data.bioontology.org/ontologies/EFO	http://data.bioontology.org/ontologies/NCIT	http://data.bioontology.org/ontologies/NCBITAXON	http://data.bioontology.org/ontologies/SO	http://data.bioontology.org/ontologies/UO
+Term Source Version	13	32	166	52	9	229	43
+Term Source Description	Medical Subject Headings	Ontology for Biomedical Investigations	Experimental Factor Ontology	National Cancer Institute Thesaurus	National Center for Biotechnology Information (NCBI) Organismal Classification	Sequence Types and Features Ontology	Units of Measurement Ontology
+INVESTIGATION
+Investigation Identifier	
+Investigation Title	
+Investigation Description	
+Investigation Submission Date	
+Investigation Public Release Date	
+INVESTIGATION PUBLICATIONS
+Investigation PubMed ID
+Investigation Publication DOI
+Investigation Publication Author List
+Investigation Publication Title
+Investigation Publication Status
+Investigation Publication Status Term Accession Number
+Investigation Publication Status Term Source REF
+INVESTIGATION CONTACTS
+Investigation Person Last Name
+Investigation Person First Name
+Investigation Person Mid Initials
+Investigation Person Email
+Investigation Person Phone
+Investigation Person Fax
+Investigation Person Address
+Investigation Person Affiliation
+Investigation Person Roles
+Investigation Person Roles Term Accession Number
+Investigation Person Roles Term Source REF
+STUDY
+Study Identifier	OSD-191
+Study Title	Temporal dynamics of the gut microbiota in people sharing a confined environment, a 520-day ground-based space simulation, MARS500
+Study Description	The MARS500 project, the longest ground-based space simulation ever, provided us with a unique opportunity to trace the crew microbiota over 520 days of isolated confinement, such as that faced by astronauts in real long-term interplanetary space flights, and after returning to regular life, for a total of 2 years.
+Study Submission Date	24-Mar-2017
+Study Public Release Date	24-Mar-2017
+Study File Name	s_OSD-191.txt
+Comment[Acknowledgments]	
+Comment[DOI]	10.26030/pppc-dn95
+Comment[Data Source Accession]	MGP79314
+Comment[Data Source Link]	http://www.mg-rast.org/mgmain.html?mgpage=project&project=mgp79314
+Comment[Experiment Platform]	
+Comment[Flight Program]	
+Comment[Funding]	European Programme for Life and Physical Sciences in Space (ELIPS)
+Comment[Identifiers]	
+Comment[Managing NASA Center]	
+Comment[Mission End]	
+Comment[Mission Link]	
+Comment[Mission Name]	
+Comment[Mission Start]	
+Comment[Project Identifier]	Simulated_Environmental_Factors
+Comment[Project Link]	http://www.esa.int/Our_Activities/Human_Spaceflight/Mars500
+Comment[Project Title]	
+Comment[Project Type]	Ground Study
+Comment[Space Program]	
+Comment[Study Grant Number]	
+STUDY DESIGN DESCRIPTORS
+Study Design Type	amplicon sequencing
+Study Design Type Term Accession Number	http://www.ebi.ac.uk/efo/EFO_0003747
+Study Design Type Term Source REF	EFO
+STUDY PUBLICATIONS
+Study PubMed ID	28340597
+Study Publication DOI	10.1186/s40168-017-0256-8
+Study Publication Author List	Silvia Turroni, Simone Rampelli, Elena Biagi, Clarissa Consolandi, Marco Severgnini, Clelia Peano, Sara Quercia, Matteo Soverini, Franck G. Carbonero, Giovanna Bianconi, Petra Rettberg, Francesco Canganella, Patrizia Brigidi, and Marco Candela
+Study Publication Title	Temporal dynamics of the gut microbiota in people sharing a confined environment, a 520-day ground-based space simulation, MARS500
+Study Publication Status	published
+Study Publication Status Term Accession Number	http://www.ebi.ac.uk/efo/EFO_0001796
+Study Publication Status Term Source REF	EFO
+Comment[Study Publication Link]	https://microbiomejournal.biomedcentral.com/articles/10.1186/s40168-017-0256-8
+STUDY FACTORS
+Study Factor Name	Time
+Study Factor Type	time
+Study Factor Type Term Accession Number	http://www.ebi.ac.uk/efo/EFO_0000721
+Study Factor Type Term Source REF	EFO
+STUDY ASSAYS
+Study Assay File Name	a_OSD-191_amplicon-sequencing_16s_illumina.txt
+Study Assay Measurement Type	amplicon sequencing
+Study Assay Measurement Type Term Accession Number	http://www.ebi.ac.uk/efo/EFO_0003747
+Study Assay Measurement Type Term Source REF	EFO
+Study Assay Technology Type	16S
+Study Assay Technology Type Term Accession Number	http://purl.bioontology.org/ontology/MESH/D012336
+Study Assay Technology Type Term Source REF	MESH
+Study Assay Technology Platform	illumina
+STUDY PROTOCOLS
+Study Protocol Name	diet	sample collection	nucleic acid extraction	library construction	nucleic acid sequencing	sequence analysis data transformation	GeneLab amplicon-seq data processing protocol
+Study Protocol Type	Diet	sample collection	nucleic acid extraction	library construction	nucleic acid sequencing	sequence analysis data transformation	data transformation
+Study Protocol Type Term Accession Number	http://purl.bioontology.org/ontology/MESH/D004032						http://purl.obolibrary.org/obo/OBI_0200000
+Study Protocol Type Term Source REF	MESH	MESH	MESH	MESH	MESH	MESH	EFO
+Study Protocol Description	The composition of food rations fulfilled the recommendations of World Health Organization (WHO) and also Russian-American norms on the food composition of rations for the crew of ISS. Specifically, three food rations were designed: (1) first variant, from the 1st till the 250th day of the mission (time of flight from Earth to Mars); (2) second variant, from the 251st till the 270th day for three crewmembers (simulation of the egress to the Martian surface); (3) third variant, from the 271st till the 520th day for the three crewmembers participating in the egress to the planet surface (returning to Earth), and from the 251st till the 520th day for the other three crewmembers. The food rations included different types of products, ready or semi-ready for consumption, by Russian, European, Korean, and Chinese firms, with up to four menu variants, providing on average 15.1% protein, 33.4% fat, and 51.2% carbohydrate.	Crewmembers were asked to collect faecal samples 10 days (minus 10 days) before entering the isolation facility, at various time intervals throughout the entire 520-day simulation experiment, and after exiting the module up to 6 months later. Samples were collected in sterile vials, after cleaning the table top of the toilet with a hydrogen peroxide solution, washing hands with disinfectant gel, and wearing disposable gloves. In particular, for each time point inside the MARS500 modules, the vials were stored at 4 C and, when samples from all six astronauts had been collected, they were moved outside the ground-based experimental facility (NEK facility) to the IBMP lab, where they were transferred to a -80 C freezer into a Ziploc bag. Every 6 months, the samples collected were shipped to Italy in dry ice.	Total bacterial DNA was extracted from faeces using the repeated bead-beating plus column method with only minor modifications. Briefly, cell lysis was achieved by introducing three 1-min steps in a FastPrep instrument (MP Biomedicals, Irvine, CA) at 5.5 movements per second, in the presence of 500 mM NaCl, 50 mM Tris-HCl pH 8, 50 mM EDTA, 4% (w/v) SDS, four 3-mm glass beads, and 0.5 g of 0.1-mm zirconia beads (BioSpec Products, Bartlesville, OK). After incubation at 95 C for 15 min and centrifugation at full speed for 5 min to pellet stool particles, nucleic acids were precipitated by adding 10 M ammonium acetate and one volume of isopropanol. Seventy percent ethanol-washed pellets were resuspended in TE buffer, treated with 10 mg/ml DNase-free RNase at 37 C for 15 min, and then subjected to protein removal and column-based DNA purification following the manufacturer's instructions (QIAamp DNA Stool Mini Kit; QIAGEN, Hilden, Germany).	The V3-V4 hypervariable region of the 16S rRNA gene was amplified using the 341F and 805R primers with added Illumina adapter overhang sequences as previously reported. Amplicons were purified with a magnetic bead-based cleanup system (Agencourt AMPure XP; Beckman Coulter, Brea, CA). Indexed libraries were prepared by limited-cycle PCR using Nextera technology and further cleaned up as described above. The final library, prepared by pooling samples at equimolar concentrations, was denatured with 0.2 N NaOH and diluted to 6 pM with a 20% PhiX control.	Sequencing was performed on Illumina MiSeq platform using a 2x300 bp paired end protocol, according to the manufacturer's instructions.	Raw sequences were processed using a pipeline combining PANDAseq and QIIME. High-quality reads were clustered into OTUs at 97% sequence similarity using UCLUST. The filtering of chimeric OTUs was performed by using ChimeraSlayer. All singleton OTUs were discarded.	Quality assessment of reads was performed with FastQC v0.11.8 and reports were combined with MultiQC v1.7. Primers were removed with cutadapt v2.3. DADA2 v1.12 was utilized for quality-trimming and filtering and inference of amplicon sequence variants (ASVs), and taxonomy was assigned with DECIPHER v2.14 using the SILVA r138 reference database.
+Study Protocol URI							
+Study Protocol Version							
+Study Protocol Parameters Name		Storage Temperature Setting;Sample Storage Temperature		library selection;library source;library layout;library strategy;Target Molecule;Primer Info	sequencing instrument;quality scorer;base caller;Read Length		README;Raw Sequencing Data;Read Depth;trimmed sequence data;Filtered Sequence Data;FastQC Outputs;Final Outputs;Processing Info
+Study Protocol Parameters Name Term Accession Number		;		;;;;;	;;;http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C153362		;http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C165232;http://ncicb.nci.nih.gov/xml/owl/EVS/Thesaurus.owl#C155320;http://purl.obolibrary.org/obo/OBI_0002569;;;;
+Study Protocol Parameters Name Term Source REF		;		;;;;;	;;;NCIT		;NCIT;NCIT;OBI;;;;
+Study Protocol Components Name							
+Study Protocol Components Type							
+Study Protocol Components Type Term Accession Number							
+Study Protocol Components Type Term Source REF							
+STUDY CONTACTS
+Study Person Last Name	Candela
+Study Person First Name	Marco
+Study Person Mid Initials	
+Study Person Email	marco.candela@unibo.it
+Study Person Phone	
+Study Person Fax	
+Study Person Address	Department of Pharmacy and Biotechnology, University of Bologna, Via Belmeloro 6 - 40126 Bologna, Italy, Italy
+Study Person Affiliation	University of Bologna
+Study Person Roles	principal investigator
+Study Person Roles Term Accession Number	http://www.ebi.ac.uk/efo/EFO_0009736
+Study Person Roles Term Source REF	EFO
+Comment[Study Person REF]	

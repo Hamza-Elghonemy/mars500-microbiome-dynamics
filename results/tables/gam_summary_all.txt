@@ -1,0 +1,22 @@
+=== MARS500 Longitudinal GAM Summary ===
+
+Shannon GAM:
+  EDF: 2.15 
+  p-value: 1.07e-06 
+  Deviance explained: 44.9 %
+  AIC: 61.79849 
+
+Simpson GAM:
+  EDF: 1.64 
+  p-value: 0.00123 
+  Deviance explained: 26.8 %
+  AIC: -743.8106 
+
+Taxa GAMs:
+             Taxon      EDF   F_stat      p_value Dev_explained       AIC
+1       Sutterella 4.920319 7.600004 1.094430e-06          66.0 -396.7422
+2        Bilophila 1.000173 9.507106 2.429430e-03          70.6 -406.8796
+3 Faecalibacterium 4.518493 9.203172 0.000000e+00          29.9 -381.0875
+4      Bacteroides 3.604258 8.826832 1.686276e-06          54.8 -637.8319
+5        Dialister 2.868927 7.312469 6.851408e-05          76.7 -520.7587
+6      Akkermansia 4.735109 4.382444 6.036843e-04          46.7 -312.4728

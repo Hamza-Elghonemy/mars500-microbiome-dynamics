@@ -1,0 +1,27 @@
+=== GAM: Shannon ~ s(Day) + s(CrewMember, bs='re') ===
+
+
+Family: gaussian 
+Link function: identity 
+
+Formula:
+Shannon ~ s(Day, k = 10) + s(CrewMember, bs = "re")
+
+Parametric coefficients:
+            Estimate Std. Error t value Pr(>|t|)    
+(Intercept)  3.88532    0.09175   42.34   <2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+Approximate significance of smooth terms:
+                edf Ref.df     F  p-value    
+s(Day)        2.147  2.693 13.18 1.07e-06 ***
+s(CrewMember) 4.698  5.000 15.29  < 2e-16 ***
+---
+Signif. codes:  0 ‘***’ 0.001 ‘**’ 0.01 ‘*’ 0.05 ‘.’ 0.1 ‘ ’ 1
+
+R-sq.(adj) =  0.424   Deviance explained = 44.9%
+-REML = 37.896  Scale est. = 0.080436  n = 159
+
+AIC: 61.79849 
+Deviance explained: 44.9 %

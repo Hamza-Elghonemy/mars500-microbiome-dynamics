@@ -1,0 +1,2 @@
+true_accuracy,mean_null_accuracy,std_null_accuracy,p_value,n_permutations
+0.6161290322580645,0.3556858870967742,0.03373413171636982,0.000999000999000999,1000
