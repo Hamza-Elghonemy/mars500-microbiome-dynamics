@@ -1,0 +1,4 @@
+Method,N_Features,N_Genera,LOSO_Accuracy,Permutation_p
+All LP features,450,50,0.39622641509433965,—
+Group-lasso selected,216,24,0.39622641509433965,0.3653
+Previous LOSO (pipeline 18),2916,all ASVs,0.472,0.001

@@ -1,0 +1,16 @@
+Genus,DESeq2_LFC,DESeq2_padj,DESeq2_Direction,DESeq2_Significant,ANCOMBC_LFC,ANCOMBC_qval,ANCOMBC_Direction,ANCOMBC_Significant,Verdict,Confidence
+Faecalibacterium,-1.68375508078225,0.020023149542784,Down,True,-0.8118140631109,0.997249052070718,Down,False,"🟡 Weak (one method sig, same direction)",Moderate
+Sutterella,19.7680088766661,4.11917965758196e-18,Up,True,,,Not tested,False,🟡 DESeq2 only (ANCOM-BC2 filtered),Moderate
+Bilophila,16.344439046662,1.01035185055834e-13,Up,True,,,Not tested,False,🟡 DESeq2 only (ANCOM-BC2 filtered),Moderate
+Akkermansia,3.95784371605085,0.0508243482574008,Up,False,2.54194501606233,0.997249052070718,Up,False,"🔵 Trend only (same direction, neither sig)",Low
+Bacteroides,-1.59442964784373,0.152410902665515,Down,False,-1.43601206280929,0.997249052070718,Down,False,"🔵 Trend only (same direction, neither sig)",Low
+Dialister,-2.21724565592096,0.184073366505388,Down,False,-2.61187453771676,0.997249052070718,Down,False,"🔵 Trend only (same direction, neither sig)",Low
+Roseburia,5.32956405877872,0.0115511138584575,Up,True,,,Not tested,False,🟡 DESeq2 only (ANCOM-BC2 filtered),Moderate
+Ruminococcus,0.220933571137327,0.835430410458128,Up,False,0.483833114009116,0.997249052070718,Up,False,"🔵 Trend only (same direction, neither sig)",Low
+Lachnospira,1.82635785365524,0.0971023552754057,Up,False,1.92258510273803,0.997249052070718,Up,False,"🔵 Trend only (same direction, neither sig)",Low
+Blautia,7.52426923481428,4.66239455379783e-06,Up,True,,,Not tested,False,🟡 DESeq2 only (ANCOM-BC2 filtered),Moderate
+Coprococcus,3.48016676158329,2.60581787393651e-05,Up,True,2.99505182925828,0.959438702207671,Up,False,"🟡 Weak (one method sig, same direction)",Moderate
+Dorea,,,Not tested,False,,,Not tested,False,❌ Not tested by either method,None
+Oscillospira,-1.30405872469677,0.646678123507351,Down,False,0.792160822978886,0.997249052070718,Up,False,❌ Not significant,None
+Prevotella,-1.48921001233207,0.603601398729465,Down,False,,,Not tested,False,❌ Not significant (DESeq2 only),None
+Parabacteroides,-1.99523522600554,0.270909969656787,Down,False,-1.28449239284118,0.997249052070718,Down,False,"🔵 Trend only (same direction, neither sig)",Low
