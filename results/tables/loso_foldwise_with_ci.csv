@@ -1,0 +1,7 @@
+CrewMember,N_test,N_correct,Accuracy,Accuracy_Pct,CI_Lower,CI_Upper,CI_Lower_Pct,CI_Upper_Pct,Above_chance,Notes
+S1,24,11,0.4583,45.8%,0.2789,0.6493,27.9%,64.9%,True,
+S2,26,12,0.4615,46.2%,0.2876,0.6454,28.8%,64.5%,True,
+S3,28,16,0.5714,57.1%,0.3907,0.7349,39.1%,73.5%,True,Highest fold
+S4,27,12,0.4444,44.4%,0.2759,0.6269,27.6%,62.7%,True,
+S5,27,14,0.5185,51.9%,0.3399,0.6926,34.0%,69.3%,True,
+S6,27,10,0.3704,37.0%,0.2153,0.5577,21.5%,55.8%,True,Lowest fold

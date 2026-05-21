@@ -1,0 +1,6 @@
+Phase,Day_min,Day_max,N_samples,Biological_rationale
+Pre-Mission,-10,-10,4,Pre-isolation baseline
+Early,1,45,35,Acute adaptation (first 45 days)
+Mid,60,330,63,Steady-state confinement
+Late,360,520,42,Deep chronic confinement
+Post-Mission,530,700,15,Post-isolation recovery

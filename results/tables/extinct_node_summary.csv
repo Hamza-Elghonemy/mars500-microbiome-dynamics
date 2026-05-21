@@ -1,0 +1,14 @@
+Metric,Value
+Total Early nodes,772.0
+Total Late nodes,906.0
+Nodes lost Early->Late,177.0
+Nodes gained Early->Late,311.0
+Retained nodes,595.0
+Early butyrate-order ASVs (Lachnospirales+Oscillospirales),430.0
+Lost butyrate-order ASVs,85.0
+Pct of Early butyrate ASVs lost (%),19.8
+Pct of lost nodes from butyrate orders,48.0
+Gained butyrate-order ASVs,165.0
+Early Bacteroidales ASVs,108.0
+Lost Bacteroidales ASVs,33.0
+Bacteroidales turnover (%),30.6

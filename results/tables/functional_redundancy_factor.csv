@@ -1,0 +1,6 @@
+Phase,N_samples,Taxonomic_Shannon,Functional_Shannon_mean,Functional_Shannon_SD,Redundancy_Ratio,Tax_Shannon_range,Func_Shannon_range,Resilience_ratio
+Pre-Mission,4,3.526,6.37,0.035,1.806,0.516,0.023,0.045
+Early,35,3.706,6.393,0.042,1.725,0.516,0.023,0.045
+Mid,63,3.856,6.381,0.046,1.655,0.516,0.023,0.045
+Late,42,4.042,6.379,0.041,1.578,0.516,0.023,0.045
+Post-Mission,15,4.012,6.376,0.051,1.589,0.516,0.023,0.045
